@@ -29,16 +29,55 @@ postdoc-munro:
     webpage: "https://www.evanmunro.ca/"
     role: postdoc
 
+phd-huo:
+    display_name: "Yiyi Huo"
+    webpage: "https://statistics.berkeley.edu/people/yiyi-huo"
+    role: grad
+
+phd-lu:
+    display_name: "Sizhu Lu"
+    webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
+    role: grad
+
 phd-rewolinski:
     display_name: "Zachary Rewolinski"
     webpage: "https://www.zachrewolinski.com/"
     image: /img/people/zachary_rewolinski.jpeg
     role: grad
 
+phd-sadeghpour:
+    display_name: "Arisa Sadeghpour"
+    webpage: "https://statistics.berkeley.edu/people/arisa-sadeghpour"
+    role: grad
+
 phd-sandoval:
     display_name: "Ricardo Sandoval"
     webpage: "https://ricardojsandoval.github.io/"
     role: grad
+
+phd-shen:
+    display_name: "Andy Shen"
+    webpage: "https://aashen12.github.io/"
+    role: grad
+
+phd-shi:
+    display_name: "Lei Shi"
+    role: grad
+
+phd-torous:
+    display_name: "William Torous"
+    webpage: "https://www.williamtorous.com/"
+    role: grad
+
+phd-xiao:
+    display_name: "Zhiwei Xiao"
+    webpage: https://zhiweixiao.github.io/
+    role: grad
+
+visitor-bodik:
+    display_name: "Juraj Bodik"
+    webpage: "https://jurajbodik.com/"
+    role: visitor
 
 alum-huang:
     display_name: "Melody Huang"

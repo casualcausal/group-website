@@ -17,6 +17,8 @@ roles:
     name: Postdocs
   - key: grad
     name: Graduate Students
+  - key: visitor
+    name: Visiting Students
   - key: alum
     name: Alumni
 
