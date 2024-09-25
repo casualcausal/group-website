@@ -50,6 +50,7 @@ phd-huo:
 phd-lu:
     display_name: "Sizhu Lu"
     webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
+    image: /img/people/sizhu_lu.jpeg
     role: grad
 
 phd-nwankwo:
@@ -73,6 +74,7 @@ phd-sadeghpour:
 phd-sandoval:
     display_name: "Ricardo Sandoval"
     webpage: "https://ricardojsandoval.github.io/"
+    image: /img/people/ricardo_sandoval.jpeg
     role: grad
 
 phd-shen:
@@ -83,6 +85,8 @@ phd-shen:
 
 phd-shi:
     display_name: "Lei Shi"
+    webpage: "https://leishi-rocks.github.io/"
+    image: /img/people/lei_shi.jpeg
     role: grad
 
 phd-torous:
