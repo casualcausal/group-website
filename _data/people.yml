@@ -2,36 +2,43 @@
 prof-coston:
     display_name: "Amanda Coston"
     webpage: "https://mandycoston.github.io/"
+    image: /img/people/amanda_coston.jpg
     role: faculty
 
 prof-ding:
     display_name: "Peng Ding"
     webpage: "https://sites.google.com/site/pengdingpku/"
+    image: /img/people/peng_ding.jpg
     role: faculty
 
 prof-feller:
     display_name: "Avi Feller"
     webpage: "https://www.avifeller.com/"
+    image: /img/people/avi_feller.jpg
     role: faculty
 
 prof-hartman:
     display_name: "Erin Hartman"
     webpage: "https://erinhartman.com/"
+    image: /img/people/erin_hartman.jpg
     role: faculty
 
 prof-pimentel:
     display_name: "Sam Pimentel"
     webpage: "https://www.stat.berkeley.edu/~spi/"
+    image: /img/people/sam_pimentel.jpg
     role: faculty
 
 postdoc-munro:
     display_name: "Evan Munro"
     webpage: "https://www.evanmunro.ca/"
+    image: /img/people/evan_munro.jpg
     role: postdoc
 
 phd-huo:
     display_name: "Yiyi Huo"
     webpage: "https://statistics.berkeley.edu/people/yiyi-huo"
+    image: /img/people/yiyi_huo.jpg
     role: grad
 
 phd-lu:
@@ -42,12 +49,13 @@ phd-lu:
 phd-rewolinski:
     display_name: "Zachary Rewolinski"
     webpage: "https://www.zachrewolinski.com/"
-    image: /img/people/zachary_rewolinski.jpeg
+    image: /img/people/zachary_rewolinski.jpg
     role: grad
 
 phd-sadeghpour:
     display_name: "Arisa Sadeghpour"
     webpage: "https://statistics.berkeley.edu/people/arisa-sadeghpour"
+    image: /img/people/arisa_sadeghpour.jpg
     role: grad
 
 phd-sandoval:
@@ -58,6 +66,7 @@ phd-sandoval:
 phd-shen:
     display_name: "Andy Shen"
     webpage: "https://aashen12.github.io/"
+    image: /img/people/andy_shen.jpg
     role: grad
 
 phd-shi:
@@ -67,11 +76,13 @@ phd-shi:
 phd-torous:
     display_name: "William Torous"
     webpage: "https://www.williamtorous.com/"
+    image: /img/people/william_torous.jpeg
     role: grad
 
 phd-xiao:
     display_name: "Zhiwei Xiao"
     webpage: https://zhiweixiao.github.io/
+    image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
 visitor-bodik:
