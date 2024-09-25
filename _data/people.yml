@@ -35,6 +35,12 @@ postdoc-munro:
     image: /img/people/evan_munro.jpg
     role: postdoc
 
+phd-huang:
+    display_name: "Yaxuan Huang"
+    webpage: "https://imyaxuan.github.io"
+    image: /img/people/yaxuan_huang.jpg
+    role: grad
+
 phd-huo:
     display_name: "Yiyi Huo"
     webpage: "https://statistics.berkeley.edu/people/yiyi-huo"
@@ -44,6 +50,12 @@ phd-huo:
 phd-lu:
     display_name: "Sizhu Lu"
     webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
+    role: grad
+
+phd-nwankwo:
+    display_name: "Ezinne Nwankwo"
+    webpage: "https://www.ezinnenwa.com/"
+    image: /img/people/ezinne_nwankwo.png"
     role: grad
 
 phd-rewolinski:
@@ -77,6 +89,12 @@ phd-torous:
     display_name: "William Torous"
     webpage: "https://www.williamtorous.com/"
     image: /img/people/william_torous.jpeg
+    role: grad
+
+phd-ulichney:
+    display_name: "Annie Ulichney"
+    webpage: "https://aulichney.github.io/"
+    image: /img/people/annie_ulichney.jpg
     role: grad
 
 phd-xiao:
