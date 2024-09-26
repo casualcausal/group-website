@@ -112,8 +112,32 @@ visitor-bodik:
     webpage: "https://jurajbodik.com/"
     role: visitor
 
+alum-liao:
+    display_name: "Lauren Liao"
+    webpage: "https://www.linkedin.com/in/ldliao/"
+    role: alum
+    bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
+
 alum-huang:
     display_name: "Melody Huang"
     webpage: "https://melodyyhuang.com/"
     role: alum
-    bio: "PhD, 2023. Now Assistant Professor of Political Science and Statistics & Data Science at Yale."
+    bio: "PhD, 2023. Now an Assistant Professor at Yale."
+
+alum-ishihara:
+    display_name: "Miyabi Ishihara"
+    webpage: "https://miyabiishihara.github.io/"
+    role: alum
+    bio: "PhD, 2023. Now a Lecturer at the University of Pennsylvania."
+
+alum-soriano:
+    display_name: "Dan Soriano"
+    webpage: "https://www.linkedin.com/in/dan-soriano"
+    role: alum
+    bio: "PhD, 2023. Now a Principal Statistician at Novartis."
+
+alum-han:
+    display_name: "Shichao Han"
+    webpage: "https://www.linkedin.com/in/shichao-han-436a5b149/"
+    role: alum
+    bio: "BA 2020, MA 2022. Now a Research Data Scientist at Tencent."
