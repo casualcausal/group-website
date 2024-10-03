@@ -50,7 +50,7 @@ phd-huo:
 phd-lu:
     display_name: "Sizhu Lu"
     webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
-    image: /img/people/sizhu_lu.jpeg
+    image: /img/people/sizhu_lu.jpg
     role: grad
 
 phd-nwankwo:
@@ -110,6 +110,7 @@ phd-xiao:
 visitor-bodik:
     display_name: "Juraj Bodik"
     webpage: "https://jurajbodik.com/"
+    image: /img/people/juraj_bodik.jpeg
     role: visitor
 
 alum-liao:
