@@ -74,7 +74,7 @@ phd-sadeghpour:
 phd-sandoval:
     display_name: "Ricardo Sandoval"
     webpage: "https://ricardojsandoval.github.io/"
-    image: /img/people/ricardo_sandoval.jpeg
+    image: /img/people/ricardo_sandoval.jpg
     role: grad
 
 phd-shen:
@@ -103,7 +103,7 @@ phd-ulichney:
 
 phd-xiao:
     display_name: "Zhiwei Xiao"
-    webpage: https://zhiweixiao.github.io/
+    webpage: "https://zhiweixiao.github.io/"
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
