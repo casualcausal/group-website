@@ -1,5 +1,6 @@
 name: Casual Causal @ UC Berkeley
-url: http://awesome.example.edu
+title: Casual Causal @ UC Berkeley
+url: https://causal.stat.berkeley.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
