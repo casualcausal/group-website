@@ -1,6 +1,7 @@
 name: Casual Causal @ UC Berkeley
 title: Casual Causal @ UC Berkeley
 url: https://causal.stat.berkeley.edu
+ga_tracking: G-EZEVVLDZVC
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
