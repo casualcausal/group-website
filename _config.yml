@@ -39,5 +39,5 @@ navigation:
     link: /
       #   - title: Research
       # link: /research.html
-  - title: Publications
-    link: /publications.html
+  # - title: Publications
+  #   link: /publications.html
