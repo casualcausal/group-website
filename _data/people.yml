@@ -47,6 +47,12 @@ phd-huo:
     image: /img/people/yiyi_huo.jpg
     role: grad
 
+phd-lin:
+    display_name: "Zhexiao Lin"
+    webpage: "https://zhexiaolin.github.io/"
+    image: /img/people/zhexiao_lin.jpg
+    role: grad
+
 phd-lu:
     display_name: "Sizhu Lu"
     webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
