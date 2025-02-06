@@ -37,8 +37,8 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
-    link: /
+  # - title: Home
+  #   link: /
       #   - title: Research
       # link: /research.html
   # - title: Publications
