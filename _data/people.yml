@@ -119,10 +119,10 @@ phd-xiao:
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
-vgrad-bodik:
-    display_name: "Juraj Bodik"
-    webpage: "https://jurajbodik.com/"
-    image: /img/people/juraj_bodik.jpeg
+vgrad-lu:
+    display_name: "Zitong Lu"
+    webpage: "https://zitong-lu.github.io/"
+    image: /img/people/zitong_lu.JPG
     role: vgrad
 
 alum-liao:
@@ -149,6 +149,12 @@ alum-ishihara:
     role: alum
     bio: "PhD, 2023. Now a Lecturer at the University of Pennsylvania."
 
+alum-shen:
+    display_name: "Dennis Shen"
+    webpage: "https://deshen24.github.io/"
+    role: alum
+    bio: "Postdoc, 2021-2023. Now an Assistant Professor at USC."
+
 alum-soriano:
     display_name: "Dan Soriano"
     webpage: "https://www.linkedin.com/in/dan-soriano"
@@ -173,11 +179,11 @@ alum-lei:
     role: alum
     bio: "PhD, 2019. Now an Assistant Professor at Stanford."
 
-# pastvisit-bodik:
-#     display_name: "Juraj Bodik"
-#     webpage: "https://jurajbodik.com/"
-#     bio: "Visited Fall 2024."
-#     role: past-visit
+pastvisit-bodik:
+    display_name: "Juraj Bodik"
+    webpage: "https://jurajbodik.com/"
+    bio: "Visited Fall 2024."
+    role: past-visit
 
 pastvisit-clivio:
     display_name: "Oscar Clivio"
