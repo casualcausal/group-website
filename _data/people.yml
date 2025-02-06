@@ -29,11 +29,11 @@ prof-pimentel:
     image: /img/people/sam_pimentel.jpg
     role: faculty
 
-postdoc-munro:
+vprof-munro:
     display_name: "Evan Munro"
     webpage: "https://www.evanmunro.ca/"
     image: /img/people/evan_munro.jpg
-    role: postdoc
+    role: vfaculty
 
 phd-huang:
     display_name: "Yaxuan Huang"
@@ -107,11 +107,11 @@ phd-xiao:
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
-visitor-bodik:
+vgrad-bodik:
     display_name: "Juraj Bodik"
     webpage: "https://jurajbodik.com/"
     image: /img/people/juraj_bodik.jpeg
-    role: visitor
+    role: vgrad
 
 alum-liao:
     display_name: "Lauren Liao"
@@ -123,7 +123,7 @@ alum-lu:
     display_name: "Benji Lu"
     webpage: "https://statistics.berkeley.edu/people/benjamin-lu"
     role: alum
-    bio: "PhD, 2024. Incoming Assistant Professor at University of San Diego Law School."
+    bio: "PhD, 2024. Now an Assistant Professor at University of San Diego Law."
 
 alum-huang:
     display_name: "Melody Huang"
@@ -159,4 +159,16 @@ alum-lei:
     display_name: "Lihua Lei"
     webpage: "https://lihualei71.github.io/"
     role: alum
-    bio: "PhD, 2019. Now an Assistant Professor at Stanford Graduate School of Business."
+    bio: "PhD, 2019. Now an Assistant Professor at Stanford."
+
+# pastvisit-bodik:
+#     display_name: "Juraj Bodik"
+#     webpage: "https://jurajbodik.com/"
+#     bio: "Visited Fall 2024."
+#     role: past-visit
+
+pastvisit-clivio:
+    display_name: "Oscar Clivio"
+    webpage: "https://oscarclivio.github.io/"
+    bio: "Visited Spring 2024."
+    role: past-visit
