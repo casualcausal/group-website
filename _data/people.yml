@@ -61,7 +61,7 @@ phd-nwankwo:
 
 phd-rewolinski:
     display_name: "Zachary Rewolinski"
-    webpage: "https://www.linkedin.com/in/zach-rewolinski/"
+    webpage: "https://www.zachrewolinski.com/"
     image: /img/people/zachary_rewolinski.jpg
     role: grad
 
@@ -127,7 +127,7 @@ alum-huang:
 
 alum-ishihara:
     display_name: "Miyabi Ishihara"
-    webpage: "https://miyabiishihara.github.io/"
+    webpage: "https://statistics.wharton.upenn.edu/profile/miyabi/"
     role: alum
     bio: "PhD, 2023. Now a Lecturer at the University of Pennsylvania."
 
