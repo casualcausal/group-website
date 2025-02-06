@@ -35,6 +35,12 @@ vprof-munro:
     image: /img/people/evan_munro.jpg
     role: vfaculty
 
+phd-benac:
+    display_name: "Kevin Benac"
+    webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
+    image: /img/people/kevin_benac.jpg
+    role: grad
+
 phd-huang:
     display_name: "Yaxuan Huang"
     webpage: "https://imyaxuan.github.io"
