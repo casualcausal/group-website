@@ -119,6 +119,12 @@ alum-liao:
     role: alum
     bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
 
+alum-lu:
+    display_name: "Benji Lu"
+    webpage: "https://statistics.berkeley.edu/people/benjamin-lu"
+    role: alum
+    bio: "PhD, 2024. Incoming Assistant Professor at University of San Diego Law School."
+
 alum-huang:
     display_name: "Melody Huang"
     webpage: "https://melodyyhuang.com/"
@@ -142,3 +148,15 @@ alum-han:
     webpage: "https://www.linkedin.com/in/shichao-han-436a5b149/"
     role: alum
     bio: "BA 2020, MA 2022. Now a Research Data Scientist at Tencent."
+
+alum-ben-michael:
+    display_name: "Eli Ben-Michael"
+    webpage: "https://ebenmichael.github.io/"
+    role: alum
+    bio: "PhD, 2020. Now an Assistant Professor at Carnegie Mellon."
+
+alum-lei:
+    display_name: "Lihua Lei"
+    webpage: "https://lihualei71.github.io/"
+    role: alum
+    bio: "PhD, 2019. Now an Assistant Professor at Stanford Graduate School of Business."
