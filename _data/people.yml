@@ -35,10 +35,16 @@ vprof-munro:
     image: /img/people/evan_munro.jpg
     role: vfaculty
 
-vprof-zhang:
+vprof-jzhang:
     display_name: "Junni Zhang"
     webpage: "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm"
     image: /img/people/junni_zhang.jpg
+    role: vfaculty
+
+vprof-wzhang:
+    display_name: "Wei Zhang"
+    webpage: "https://people.ucas.ac.cn/~0032733?language=en"
+    image: /img/people/wei_zhang.jpg
     role: vfaculty
 
 phd-benac:
@@ -107,11 +113,11 @@ phd-shi:
     image: /img/people/lei_shi.jpeg
     role: grad
 
-phd-torous:
-    display_name: "William Torous"
-    webpage: "https://www.williamtorous.com/"
-    image: /img/people/william_torous.jpeg
-    role: grad
+# phd-torous:
+#     display_name: "William Torous"
+#     webpage: "https://www.williamtorous.com/"
+#     image: /img/people/william_torous.jpeg
+#     role: grad
 
 phd-ulichney:
     display_name: "Annie Ulichney"
