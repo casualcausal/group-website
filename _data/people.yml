@@ -35,6 +35,12 @@ vprof-munro:
     image: /img/people/evan_munro.jpg
     role: vfaculty
 
+vprof-zhang:
+    display_name: "Junni Zhang"
+    webpage: "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm"
+    image: /img/people/junni_zhang.jpg
+    role: vfaculty
+
 phd-benac:
     display_name: "Kevin Benac"
     webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
