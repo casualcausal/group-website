@@ -131,6 +131,12 @@ alum-liao:
     role: alum
     bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
 
+alum-zhang:
+    display_name: "Mingrui Zhang"
+    webpage: "https://www.linkedin.com/in/mingrui-zhang-785489263/"
+    role: alum
+    bio: "PhD, 2025. Now a Senior Statistician at BeiGene."
+
 alum-lu:
     display_name: "Benji Lu"
     webpage: "https://statistics.berkeley.edu/people/benjamin-lu"
