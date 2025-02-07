@@ -125,17 +125,17 @@ vgrad-lu:
     image: /img/people/zitong_lu.JPG
     role: vgrad
 
-alum-liao:
-    display_name: "Lauren Liao"
-    webpage: "https://www.linkedin.com/in/ldliao/"
-    role: alum
-    bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
-
 alum-zhang:
     display_name: "Mingrui Zhang"
     webpage: "https://www.linkedin.com/in/mingrui-zhang-785489263/"
     role: alum
     bio: "PhD, 2025. Now a Senior Statistician at BeiGene."
+
+alum-liao:
+    display_name: "Lauren Liao"
+    webpage: "https://www.linkedin.com/in/ldliao/"
+    role: alum
+    bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
 
 alum-lu:
     display_name: "Benji Lu"
