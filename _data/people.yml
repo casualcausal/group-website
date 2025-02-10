@@ -47,6 +47,12 @@ vprof-wzhang:
     image: /img/people/wei_zhang.jpg
     role: vfaculty
 
+postdoc-waudbysmith:
+    display_name: "Ian Waudby-Smith"
+    webpage: "https://ianws.com/"
+    image: /img/people/ian-ws.jpg
+    role: postdoc
+
 phd-benac:
     display_name: "Kevin Benac"
     webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
