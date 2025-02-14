@@ -59,6 +59,12 @@ phd-benac:
     image: /img/people/kevin_benac.jpg
     role: grad
 
+phd-gao:
+    display_name: "Mengsi Gao"
+    webpage: "https://sites.google.com/view/mengsi-gao"
+    image: /img/people/mengsi_gao.jpg
+    role: grad
+
 phd-huang:
     display_name: "Yaxuan Huang"
     webpage: "https://imyaxuan.github.io"
