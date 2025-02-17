@@ -197,6 +197,12 @@ alum-soriano:
     role: alum
     bio: "PhD, 2023. Now a Data Scientist at LinkedIn."
 
+alum-yu:
+    display_name: "Ruoqi Yu"
+    webpage: "https://sites.google.com/view/ruoqi-yu/"
+    role: alum
+    bio: "Postdoc, 2021-2022. Now an Assistant Professor at UIUC."
+
 alum-han:
     display_name: "Shichao Han"
     webpage: "https://www.linkedin.com/in/shichao-han-436a5b149/"
