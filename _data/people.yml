@@ -29,11 +29,41 @@ prof-pimentel:
     image: /img/people/sam_pimentel.jpg
     role: faculty
 
-postdoc-munro:
+vprof-munro:
     display_name: "Evan Munro"
     webpage: "https://www.evanmunro.ca/"
     image: /img/people/evan_munro.jpg
+    role: vfaculty
+
+vprof-jzhang:
+    display_name: "Junni Zhang"
+    webpage: "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm"
+    image: /img/people/junni_zhang.jpg
+    role: vfaculty
+
+vprof-wzhang:
+    display_name: "Wei Zhang"
+    webpage: "https://people.ucas.ac.cn/~0032733?language=en"
+    image: /img/people/wei_zhang.jpg
+    role: vfaculty
+
+postdoc-waudbysmith:
+    display_name: "Ian Waudby-Smith"
+    webpage: "https://ianws.com/"
+    image: /img/people/ian-ws.jpg
     role: postdoc
+
+phd-benac:
+    display_name: "Kevin Benac"
+    webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
+    image: /img/people/kevin_benac.jpg
+    role: grad
+
+phd-gao:
+    display_name: "Mengsi Gao"
+    webpage: "https://sites.google.com/view/mengsi-gao"
+    image: /img/people/mengsi_gao.jpg
+    role: grad
 
 phd-huang:
     display_name: "Yaxuan Huang"
@@ -45,6 +75,12 @@ phd-huo:
     display_name: "Yiyi Huo"
     webpage: "https://statistics.berkeley.edu/people/yiyi-huo"
     image: /img/people/yiyi_huo.jpg
+    role: grad
+
+phd-lin:
+    display_name: "Zhexiao Lin"
+    webpage: "https://zhexiaolin.github.io/"
+    image: /img/people/zhexiao_lin.jpg
     role: grad
 
 phd-lu:
@@ -61,7 +97,7 @@ phd-nwankwo:
 
 phd-rewolinski:
     display_name: "Zachary Rewolinski"
-    webpage: "https://www.linkedin.com/in/zach-rewolinski/"
+    webpage: "https://www.zachrewolinski.com/"
     image: /img/people/zachary_rewolinski.jpg
     role: grad
 
@@ -89,11 +125,11 @@ phd-shi:
     image: /img/people/lei_shi.jpeg
     role: grad
 
-phd-torous:
-    display_name: "William Torous"
-    webpage: "https://www.williamtorous.com/"
-    image: /img/people/william_torous.jpeg
-    role: grad
+# phd-torous:
+#     display_name: "William Torous"
+#     webpage: "https://www.williamtorous.com/"
+#     image: /img/people/william_torous.jpeg
+#     role: grad
 
 phd-ulichney:
     display_name: "Annie Ulichney"
@@ -107,17 +143,35 @@ phd-xiao:
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
-visitor-bodik:
-    display_name: "Juraj Bodik"
-    webpage: "https://jurajbodik.com/"
-    image: /img/people/juraj_bodik.jpeg
-    role: visitor
+vgrad-lu:
+    display_name: "Zitong Lu"
+    webpage: "https://zitong-lu.github.io/"
+    image: /img/people/zitong_lu.JPG
+    role: vgrad
+
+alum-zhang:
+    display_name: "Mingrui Zhang"
+    webpage: "https://www.linkedin.com/in/mingrui-zhang-785489263/"
+    role: alum
+    bio: "PhD, 2025. Now a Senior Statistician at BeiGene."
+
+alum-jahani:
+    display_name: "Eaman Jahani"
+    webpage: "https://eamanjahani.com/"
+    role: alum
+    bio: "Postdoc, 2022-2024. Now an Assistant Professor at Maryland."
 
 alum-liao:
     display_name: "Lauren Liao"
     webpage: "https://www.linkedin.com/in/ldliao/"
     role: alum
     bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
+
+alum-lu:
+    display_name: "Benji Lu"
+    webpage: "https://statistics.berkeley.edu/people/benjamin-lu"
+    role: alum
+    bio: "PhD, 2024. Now an Assistant Professor at University of San Diego Law."
 
 alum-huang:
     display_name: "Melody Huang"
@@ -127,18 +181,54 @@ alum-huang:
 
 alum-ishihara:
     display_name: "Miyabi Ishihara"
-    webpage: "https://miyabiishihara.github.io/"
+    webpage: "https://statistics.wharton.upenn.edu/profile/miyabi/"
     role: alum
     bio: "PhD, 2023. Now a Lecturer at the University of Pennsylvania."
+
+alum-shen:
+    display_name: "Dennis Shen"
+    webpage: "https://deshen24.github.io/"
+    role: alum
+    bio: "Postdoc, 2021-2023. Now an Assistant Professor at USC."
 
 alum-soriano:
     display_name: "Dan Soriano"
     webpage: "https://www.linkedin.com/in/dan-soriano"
     role: alum
-    bio: "PhD, 2023. Now a Principal Statistician at Novartis."
+    bio: "PhD, 2023. Now a Data Scientist at LinkedIn."
+
+alum-yu:
+    display_name: "Ruoqi Yu"
+    webpage: "https://sites.google.com/view/ruoqi-yu/"
+    role: alum
+    bio: "Postdoc, 2021-2022. Now an Assistant Professor at UIUC."
 
 alum-han:
     display_name: "Shichao Han"
     webpage: "https://www.linkedin.com/in/shichao-han-436a5b149/"
     role: alum
     bio: "BA 2020, MA 2022. Now a Research Data Scientist at Tencent."
+
+alum-ben-michael:
+    display_name: "Eli Ben-Michael"
+    webpage: "https://ebenmichael.github.io/"
+    role: alum
+    bio: "PhD, 2020. Now an Assistant Professor at Carnegie Mellon."
+
+alum-lei:
+    display_name: "Lihua Lei"
+    webpage: "https://lihualei71.github.io/"
+    role: alum
+    bio: "PhD, 2019. Now an Assistant Professor at Stanford."
+
+pastvisit-bodik:
+    display_name: "Juraj Bodik"
+    webpage: "https://jurajbodik.com/"
+    bio: "Visited Fall 2024."
+    role: past-visit
+
+pastvisit-clivio:
+    display_name: "Oscar Clivio"
+    webpage: "https://oscarclivio.github.io/"
+    bio: "Visited Spring 2024."
+    role: past-visit
