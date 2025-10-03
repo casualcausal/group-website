@@ -29,40 +29,16 @@ prof-pimentel:
     image: /img/people/sam_pimentel.jpg
     role: faculty
 
-vprof-munro:
-    display_name: "Evan Munro"
-    webpage: "https://www.evanmunro.ca/"
-    image: /img/people/evan_munro.jpg
-    role: vfaculty
-
-vprof-jzhang:
-    display_name: "Junni Zhang"
-    webpage: "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm"
-    image: /img/people/junni_zhang.jpg
-    role: vfaculty
-
-vprof-wzhang:
-    display_name: "Wei Zhang"
-    webpage: "https://people.ucas.ac.cn/~0032733?language=en"
-    image: /img/people/wei_zhang.jpg
-    role: vfaculty
-
 postdoc-waudbysmith:
     display_name: "Ian Waudby-Smith"
     webpage: "https://ianws.com/"
     image: /img/people/ian-ws.jpg
     role: postdoc
 
-phd-benac:
-    display_name: "Kevin Benac"
-    webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
-    image: /img/people/kevin_benac.jpg
-    role: grad
-
-phd-gao:
-    display_name: "Mengsi Gao"
-    webpage: "https://sites.google.com/view/mengsi-gao"
-    image: /img/people/mengsi_gao.jpg
+phd-ateyeh:
+    display_name: "Abdullah Ateyeh"
+    webpage: "https://www.linkedin.com/in/abdullah-ateyeh"
+    image: /img/people/abdullah_ateyeh.jpeg
     role: grad
 
 phd-huang:
@@ -87,6 +63,12 @@ phd-lu:
     display_name: "Sizhu Lu"
     webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
     image: /img/people/sizhu_lu.jpg
+    role: grad
+
+phd-mathis:
+    display_name: "Chase Mathis"
+    webpage: "https://chasehmathis.github.io/"
+    image: /img/people/chase_mathis.jpg
     role: grad
 
 phd-nwankwo:
@@ -119,22 +101,16 @@ phd-shen:
     image: /img/people/andy_shen.jpg
     role: grad
 
-phd-shi:
-    display_name: "Lei Shi"
-    webpage: "https://leishi-rocks.github.io/"
-    image: /img/people/lei_shi.jpeg
-    role: grad
-
-# phd-torous:
-#     display_name: "William Torous"
-#     webpage: "https://www.williamtorous.com/"
-#     image: /img/people/william_torous.jpeg
-#     role: grad
-
 phd-ulichney:
     display_name: "Annie Ulichney"
     webpage: "https://aulichney.github.io/"
     image: /img/people/annie_ulichney.jpg
+    role: grad
+
+phd-wang:
+    display_name: "Xinyi Wang"
+    webpage: "https://statistics.berkeley.edu/people/xinyi-wang"
+    image: /img/people/xinyi_wang.jpg
     role: grad
 
 phd-xiao:
@@ -143,11 +119,29 @@ phd-xiao:
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
 
-vgrad-lu:
-    display_name: "Zitong Lu"
-    webpage: "https://zitong-lu.github.io/"
-    image: /img/people/zitong_lu.JPG
-    role: vgrad
+alum-munro:
+    display_name: "Evan Munro"
+    webpage: "https://www.evanmunro.ca/"
+    role: alum
+    bio: "Neyman Visiting Prof., 2024-2025. Now an Assistant Prof. at UChicago."
+
+alum-gao:
+    display_name: "Mengsi Gao"
+    webpage: "https://sites.google.com/view/mengsi-gao"
+    role: alum
+    bio: "PhD, 2025. Now an Assistant Professor at USC."
+
+alum-shi:
+    display_name: "Lei Shi"
+    webpage: "https://leishi-rocks.github.io/"
+    role: alum
+    bio: "PhD, 2025. Now a Research Scientist at Adobe."
+
+alum-benac:
+    display_name: "Kevin Benac"
+    webpage: "https://www.linkedin.com/in/kevin-benac-6551a4110"
+    role: alum
+    bio: "PhD, 2025. Now a Data Scientist at Waymo."
 
 alum-zhang:
     display_name: "Mingrui Zhang"
@@ -220,6 +214,24 @@ alum-lei:
     webpage: "https://lihualei71.github.io/"
     role: alum
     bio: "PhD, 2019. Now an Assistant Professor at Stanford."
+
+pastvisit-lu:
+    display_name: "Zitong Lu"
+    webpage: "https://zitong-lu.github.io/"
+    bio: "Visited Spring 2025."
+    role: past-visit
+
+pastvisit-jzhang:
+    display_name: "Junni Zhang"
+    webpage: "https://en.nsd.pku.edu.cn/faculty/fulltime/z/496245.htm"
+    bio: "Visited Spring 2025."
+    role: past-visit
+
+pastvisit-wzhang:
+    display_name: "Wei Zhang"
+    webpage: "https://people.ucas.ac.cn/~0032733?language=en"
+    bio: "Visited Spring 2025."
+    role: past-visit
 
 pastvisit-bodik:
     display_name: "Juraj Bodik"

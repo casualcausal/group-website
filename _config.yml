@@ -19,12 +19,12 @@ roles:
     name: Postdocs
   - key: grad
     name: Graduate Students
-  - key: vgrad
-    name: Visiting Students
+  # - key: vgrad
+  #   name: Visiting Students
   - key: alum
     name: Alumni
-  - key: vfaculty
-    name: Visiting Faculty
+  # - key: vfaculty
+  #   name: Visiting Faculty
   - key: past-visit
     name: Past Visitors
 
