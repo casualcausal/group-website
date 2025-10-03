@@ -83,6 +83,12 @@ phd-rewolinski:
     image: /img/people/zachary_rewolinski.jpg
     role: grad
 
+phd-richardson:
+    display_name: "Sean Richardson"
+    webpage: "https://www.linkedin.com/in/sean-richard-son"
+    image: /img/people/sean_richardson.png
+    role: grad
+
 phd-sadeghpour:
     display_name: "Arisa Sadeghpour"
     webpage: "https://statistics.berkeley.edu/people/arisa-sadeghpour"
