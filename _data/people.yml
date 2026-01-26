@@ -65,6 +65,12 @@ phd-lu:
     image: /img/people/sizhu_lu.jpg
     role: grad
 
+phd-morton:
+    display_name: "Claire Morton"
+    webpage: "https://mortonc78483.github.io/"
+    image: /img/people/claire_morton.jpg
+    role: grad
+
 phd-mathis:
     display_name: "Chase Mathis"
     webpage: "https://chasehmathis.github.io/"
