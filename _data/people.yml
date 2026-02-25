@@ -29,6 +29,12 @@ prof-pimentel:
     image: /img/people/sam_pimentel.jpg
     role: faculty
 
+prof-borusyak:
+    display_name: "Kirill Borusyak"
+    webpage: "https://sites.google.com/view/borusyak/home"
+    image: /img/people/kirill_borusyak.jpg
+    role: faculty
+
 postdoc-waudbysmith:
     display_name: "Ian Waudby-Smith"
     webpage: "https://ianws.com/"
