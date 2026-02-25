@@ -136,6 +136,12 @@ phd-xiao:
     webpage: "https://zhiweixiao.github.io/"
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
+    
+alum-smith:
+    display_name: "David Bruns-Smith"
+    webpage: "https://brunssmith.com/"
+    role: alum
+    bio: "PhD, 2024. Now a Postdoc at Stanford"
 
 alum-munro:
     display_name: "Evan Munro"
