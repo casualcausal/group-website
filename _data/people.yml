@@ -1,3 +1,8 @@
+prof-borusyak:
+    display_name: "Kirill Borusyak"
+    webpage: "https://sites.google.com/view/borusyak/home"
+    image: /img/people/kirill_borusyak.jpg
+    role: faculty
 
 prof-coston:
     display_name: "Amanda Coston"
@@ -29,10 +34,10 @@ prof-pimentel:
     image: /img/people/sam_pimentel.jpg
     role: faculty
 
-prof-borusyak:
-    display_name: "Kirill Borusyak"
-    webpage: "https://sites.google.com/view/borusyak/home"
-    image: /img/people/kirill_borusyak.jpg
+prof-schuler:
+    display_name: "Alejandro Schuler"
+    webpage: "https://ctml.berkeley.edu/people/alejandro-schuler-phd"
+    image: /img/people/alejandro_schuler.jpg
     role: faculty
 
 postdoc-waudbysmith:
