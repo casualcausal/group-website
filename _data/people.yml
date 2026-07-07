@@ -1,3 +1,8 @@
+prof-borusyak:
+    display_name: "Kirill Borusyak"
+    webpage: "https://sites.google.com/view/borusyak/home"
+    image: /img/people/kirill_borusyak.jpg
+    role: faculty
 
 prof-coston:
     display_name: "Amanda Coston"
@@ -27,6 +32,12 @@ prof-pimentel:
     display_name: "Sam Pimentel"
     webpage: "https://www.stat.berkeley.edu/~spi/"
     image: /img/people/sam_pimentel.jpg
+    role: faculty
+
+prof-schuler:
+    display_name: "Alejandro Schuler"
+    webpage: "https://ctml.berkeley.edu/people/alejandro-schuler-phd"
+    image: /img/people/alejandro_schuler.jpg
     role: faculty
 
 postdoc-waudbysmith:
@@ -130,6 +141,12 @@ phd-xiao:
     webpage: "https://zhiweixiao.github.io/"
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
+    
+alum-smith:
+    display_name: "David Bruns-Smith"
+    webpage: "https://brunssmith.com/"
+    role: alum
+    bio: "PhD, 2024. Now a Postdoc at Stanford"
 
 alum-munro:
     display_name: "Evan Munro"
