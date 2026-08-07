@@ -52,28 +52,10 @@ phd-ateyeh:
     image: /img/people/abdullah_ateyeh.jpeg
     role: grad
 
-phd-huang:
-    display_name: "Yaxuan Huang"
-    webpage: "https://imyaxuan.github.io"
-    image: /img/people/yaxuan_huang.jpg
-    role: grad
-
 phd-huo:
     display_name: "Yiyi Huo"
     webpage: "https://statistics.berkeley.edu/people/yiyi-huo"
     image: /img/people/yiyi_huo.jpg
-    role: grad
-
-phd-lin:
-    display_name: "Zhexiao Lin"
-    webpage: "https://zhexiaolin.github.io/"
-    image: /img/people/zhexiao_lin.jpg
-    role: grad
-
-phd-lu:
-    display_name: "Sizhu Lu"
-    webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
-    image: /img/people/sizhu_lu.jpg
     role: grad
 
 phd-morton:
@@ -83,7 +65,7 @@ phd-morton:
     role: grad
 
 phd-mathis:
-    display_name: "Chase Mathis"
+    display_name: "Chase H. Mathis"
     webpage: "https://chasehmathis.github.io/"
     image: /img/people/chase_mathis.jpg
     role: grad
@@ -118,12 +100,6 @@ phd-sandoval:
     image: /img/people/ricardo_sandoval.jpg
     role: grad
 
-phd-shen:
-    display_name: "Andy Shen"
-    webpage: "https://aashen12.github.io/"
-    image: /img/people/andy_shen.jpg
-    role: grad
-
 phd-ulichney:
     display_name: "Annie Ulichney"
     webpage: "https://aulichney.github.io/"
@@ -141,12 +117,36 @@ phd-xiao:
     webpage: "https://zhiweixiao.github.io/"
     image: /img/people/zhiwei_xiao.jpeg
     role: grad
-    
+
+alum-yhuang:
+    display_name: "Yaxuan Huang"
+    webpage: "https://imyaxuan.github.io"
+    bio: "PhD 2026, Now a Research Analyst at Cubist Systematic Strategies."
+    role: alum
+
+alum-slu:
+    display_name: "Sizhu Lu"
+    webpage: "https://statistics.berkeley.edu/people/sizhu-lu"
+    role: alum
+    bio: "PhD, 2026. Now a Postdoc at Stanford. Incoming Assistant Prof. at CMU."
+
+alum-lin:
+    display_name: "Zhexiao Lin"
+    webpage: "https://zhexiaolin.github.io/"
+    role: alum
+    bio: "PhD, 2026. Now a Quantitative Researcher at Two Sigma."
+
+alum-ashen:
+    display_name: "Andy Shen"
+    webpage: "https://aashen12.github.io/"
+    role: alum
+    bio: "PhD, 2026. Now a Statistician at Genentech."
+
 alum-smith:
     display_name: "David Bruns-Smith"
     webpage: "https://brunssmith.com/"
     role: alum
-    bio: "PhD, 2024. Now a Postdoc at Stanford"
+    bio: "PhD, 2024. Now an Assistant Professor at MIT."
 
 alum-munro:
     display_name: "Evan Munro"
@@ -190,7 +190,7 @@ alum-liao:
     role: alum
     bio: "PhD, 2024. Now a Biostatistician at Kaiser Permanente."
 
-alum-lu:
+alum-blu:
     display_name: "Benji Lu"
     webpage: "https://statistics.berkeley.edu/people/benjamin-lu"
     role: alum
@@ -208,7 +208,7 @@ alum-ishihara:
     role: alum
     bio: "PhD, 2023. Now a Lecturer at the University of Pennsylvania."
 
-alum-shen:
+alum-dshen:
     display_name: "Dennis Shen"
     webpage: "https://deshen24.github.io/"
     role: alum
@@ -236,7 +236,7 @@ alum-ben-michael:
     display_name: "Eli Ben-Michael"
     webpage: "https://ebenmichael.github.io/"
     role: alum
-    bio: "PhD, 2020. Now an Assistant Professor at Carnegie Mellon."
+    bio: "PhD, 2020. Now an Assistant Professor at CMU."
 
 alum-lei:
     display_name: "Lihua Lei"
