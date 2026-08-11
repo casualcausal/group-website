@@ -6,6 +6,13 @@ on:
   push:
     branches: ["master"]
 
+  # Rebuild after the arXiv updater commits _data/papers.yml. That commit is
+  # made with the default GITHUB_TOKEN, and GitHub does not fire `push` events
+  # for such commits, so without this the new papers never reach the live site.
+  workflow_run:
+    workflows: ["Update arXiv Papers"]
+    types: [completed]
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

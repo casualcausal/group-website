@@ -34,6 +34,37 @@ role-tables:
     </p>
 </div>
 
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
+
+<section>
+    <h2>Recent Papers</h2>
+    <ul class="news papers list-unstyled">
+        {% for paper in site.data.papers.papers limit: site.front_page_papers %}
+            {% include paper-item.html paper=paper %}
+        {% endfor %}
+    </ul>
+    {% assign numpapers = site.data.papers.papers | size %}
+    {% if numpapers >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-file-text-o"></span>
+            <a href="{{ site.base }}/papers.html">See all papers&hellip;</a>
+        </p>
+    {% endif %}
+</section>
+
 <section>
     <h2>News</h2>
     <ul class="news list-unstyled">
@@ -66,17 +97,3 @@ role-tables:
     </div>
 </section> -->
 
-<div id="people">
-    <h2>People</h2>
-    {% for role-table in page.role-tables %}
-        <section class="people row justify-content-between">
-            {% for role-column in role-table %}
-                <div class="col-md-{{ role-column.width }}">
-                    {% for role in role-column.roles %}
-                        {% include role-people.html role=role image=role-column.image %}
-                    {% endfor %}
-                </div>
-            {% endfor %}
-        </section>
-    {% endfor %}
-</div>
