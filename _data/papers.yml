@@ -1,0 +1,437 @@
+last_updated: August 11, 2026
+window_days: 365
+papers:
+- title: Confidence Horizons
+  arxiv_id: 2608.03889v1
+  url: https://arxiv.org/abs/2608.03889v1
+  pdf_url: https://arxiv.org/pdf/2608.03889v1
+  authors: Chase Mathis, Ian Waudby-Smith
+  date: '2026-08-04'
+  date_display: Aug 04, 2026
+  categories:
+  - stat.ME
+  - math.ST
+  - stat.ML
+- title: Gaffke's confidence interval for the mean of bounded data is inadmissible
+    but asymptotically efficient
+  arxiv_id: 2607.18661v1
+  url: https://arxiv.org/abs/2607.18661v1
+  pdf_url: https://arxiv.org/pdf/2607.18661v1
+  authors: Jiahao Ming, Aaditya Ramdas, Yi Shen, Ruodu Wang, Ian Waudby-Smith
+  date: '2026-07-21'
+  date_display: Jul 21, 2026
+  categories:
+  - math.ST
+  - cs.IT
+  - eess.SP
+- title: Robust Signal Maximization in Spillover Experiments
+  arxiv_id: 2607.18601v2
+  url: https://arxiv.org/abs/2607.18601v2
+  pdf_url: https://arxiv.org/pdf/2607.18601v2
+  authors: Kirill Borusyak, Peter Hull, Evan Munro
+  date: '2026-07-21'
+  date_display: Jul 21, 2026
+  categories:
+  - econ.EM
+- title: 'Misspecified regressions with mixed regressors: robust inference and causal
+    interpretation'
+  arxiv_id: 2607.09536v1
+  url: https://arxiv.org/abs/2607.09536v1
+  pdf_url: https://arxiv.org/pdf/2607.09536v1
+  authors: Mengsi Gao, Peng Ding
+  date: '2026-07-10'
+  date_display: Jul 10, 2026
+  categories:
+  - math.ST
+  - econ.EM
+  - stat.ME
+- title: 'Bridging Predictions and Interventions: An Integrated Framework for Automated
+    Decision-Systems'
+  arxiv_id: 2606.25668v1
+  url: https://arxiv.org/abs/2606.25668v1
+  pdf_url: https://arxiv.org/pdf/2606.25668v1
+  authors: Inioluwa Deborah Raji, Lydia T. Liu, Angela Zhou, Luke Guerdan, Jessica
+    Hullman, Daniel Malinsky, Bryan Wilder, Simone Zhang, Amanda Coston, Ezinne Nwankwo,
+    Eli Ben-Michael, Avi Feller, et al.
+  date: '2026-06-24'
+  date_display: Jun 24, 2026
+  categories:
+  - cs.CY
+- title: 'Beyond the Training Distribution: Evaluating Predictions Under Distribution
+    Shift and Selection Bias'
+  arxiv_id: 2606.14506v1
+  url: https://arxiv.org/abs/2606.14506v1
+  pdf_url: https://arxiv.org/pdf/2606.14506v1
+  authors: Annie Ulichney, Amanda Coston
+  date: '2026-06-12'
+  date_display: Jun 12, 2026
+  categories:
+  - stat.ML
+  - cs.LG
+  - stat.ME
+- title: Introducing the CP-plot Based on Covariance Representations of Weighted Average
+    Treatment Effects
+  arxiv_id: 2606.11715v2
+  url: https://arxiv.org/abs/2606.11715v2
+  pdf_url: https://arxiv.org/pdf/2606.11715v2
+  authors: Pengfei Tian, Fan Yang, Peng Ding
+  date: '2026-06-10'
+  date_display: Jun 10, 2026
+  categories:
+  - stat.ME
+- title: AI-Assisted Variance Reduction in Randomized Experiments
+  arxiv_id: 2606.08853v1
+  url: https://arxiv.org/abs/2606.08853v1
+  pdf_url: https://arxiv.org/pdf/2606.08853v1
+  authors: David Arbour, Eli Ben-Michael, Avi Feller, Apoorva Lal, Lo-Hua Yuan
+  date: '2026-06-07'
+  date_display: Jun 07, 2026
+  categories:
+  - econ.EM
+  - stat.ME
+- title: Locally Equivalent Weights for Multilevel Regression and Poststratification
+  arxiv_id: 2606.04250v1
+  url: https://arxiv.org/abs/2606.04250v1
+  pdf_url: https://arxiv.org/pdf/2606.04250v1
+  authors: Ryan Giordano, Alice Cima, Jared Murray, Erin Hartman, Avi Feller
+  date: '2026-06-02'
+  date_display: Jun 02, 2026
+  categories:
+  - stat.ME
+- title: Auditing LLMs for Algorithmic Fairness in Casenote-Augmented Tabular Prediction
+  arxiv_id: 2604.19204v1
+  url: https://arxiv.org/abs/2604.19204v1
+  pdf_url: https://arxiv.org/pdf/2604.19204v1
+  authors: Xiao Qi Lee, Ezinne Nwankwo, Angela Zhou
+  date: '2026-04-21'
+  date_display: Apr 21, 2026
+  categories:
+  - cs.CY
+  - cs.LG
+- title: Improving reproducibility by controlling random seed stability in machine
+    learning based estimation via bagging
+  arxiv_id: 2604.17694v1
+  url: https://arxiv.org/abs/2604.17694v1
+  pdf_url: https://arxiv.org/pdf/2604.17694v1
+  authors: Nicholas Williams, Alejandro Schuler
+  date: '2026-04-20'
+  date_display: Apr 20, 2026
+  categories:
+  - stat.ME
+  - cs.LG
+  - stat.ML
+- title: Estimating within-cluster and between-cluster spillover effects in randomized
+    saturation designs
+  arxiv_id: 2603.19573v2
+  url: https://arxiv.org/abs/2603.19573v2
+  pdf_url: https://arxiv.org/pdf/2603.19573v2
+  authors: Sizhu Lu, Lei Shi, Peng Ding
+  date: '2026-03-20'
+  date_display: Mar 20, 2026
+  categories:
+  - stat.ME
+- title: Highly Adaptive Empirical Risk Minimization with Principal Components
+  arxiv_id: 2603.18204v1
+  url: https://arxiv.org/abs/2603.18204v1
+  pdf_url: https://arxiv.org/pdf/2603.18204v1
+  authors: Carlos García Meixide, Mingxun Wang, Alejandro Schuler, Mark J. van der
+    Laan
+  date: '2026-03-18'
+  date_display: Mar 18, 2026
+  categories:
+  - math.ST
+- title: Multi-Armed Sequential Hypothesis Testing by Betting
+  arxiv_id: 2603.17925v2
+  url: https://arxiv.org/abs/2603.17925v2
+  pdf_url: https://arxiv.org/pdf/2603.17925v2
+  authors: Ricardo J. Sandoval, Ian Waudby-Smith, Michael I. Jordan
+  date: '2026-03-18'
+  date_display: Mar 18, 2026
+  categories:
+  - stat.ME
+  - cs.LG
+  - math.ST
+- title: Combining e-values using demi-supermartingales
+  arxiv_id: 2603.10329v3
+  url: https://arxiv.org/abs/2603.10329v3
+  pdf_url: https://arxiv.org/pdf/2603.10329v3
+  authors: Jiahao Ming, Aaditya Ramdas, Yi Shen, Ruodu Wang, Ian Waudby-Smith
+  date: '2026-03-11'
+  date_display: Mar 11, 2026
+  categories:
+  - stat.ME
+  - math.PR
+- title: Post-Hoc Large-Sample Statistical Inference
+  arxiv_id: 2603.08002v1
+  url: https://arxiv.org/abs/2603.08002v1
+  pdf_url: https://arxiv.org/pdf/2603.08002v1
+  authors: Ben Chugg, Etienne Gauthier, Michael I. Jordan, Aaditya Ramdas, Ian Waudby-Smith
+  date: '2026-03-09'
+  date_display: Mar 09, 2026
+  categories:
+  - math.ST
+  - stat.ME
+- title: Discussion of "Matrix Completion When Missing Is Not at Random and Its Applications
+    in Causal Panel Data Models"
+  arxiv_id: 2602.21314v1
+  url: https://arxiv.org/abs/2602.21314v1
+  pdf_url: https://arxiv.org/pdf/2602.21314v1
+  authors: Eli Ben-Michael, Avi Feller
+  date: '2026-02-24'
+  date_display: Feb 24, 2026
+  categories:
+  - stat.ME
+- title: Generative modeling for the bootstrap
+  arxiv_id: 2602.17052v1
+  url: https://arxiv.org/abs/2602.17052v1
+  pdf_url: https://arxiv.org/pdf/2602.17052v1
+  authors: Leon Tran, Ting Ye, Peng Ding, Fang Han
+  date: '2026-02-19'
+  date_display: Feb 19, 2026
+  categories:
+  - stat.ME
+  - econ.EM
+- title: 'Introducing the b-value: combining unbiased and biased estimators from a
+    sensitivity analysis perspective'
+  arxiv_id: 2602.16310v1
+  url: https://arxiv.org/abs/2602.16310v1
+  pdf_url: https://arxiv.org/pdf/2602.16310v1
+  authors: Zhexiao Lin, Peter J. Bickel, Peng Ding
+  date: '2026-02-18'
+  date_display: Feb 18, 2026
+  categories:
+  - stat.ME
+  - econ.EM
+  - math.ST
+- title: Highly Adaptive Principal Component Regression
+  arxiv_id: 2602.10613v2
+  url: https://arxiv.org/abs/2602.10613v2
+  pdf_url: https://arxiv.org/pdf/2602.10613v2
+  authors: Mingxun Wang, Alejandro Schuler, Mark van der Laan, Carlos García Meixide
+  date: '2026-02-11'
+  date_display: Feb 11, 2026
+  categories:
+  - stat.ML
+  - cs.LG
+- title: A Weighting Framework for Clusters as Confounders in Observational Studies
+  arxiv_id: 2602.05041v1
+  url: https://arxiv.org/abs/2602.05041v1
+  pdf_url: https://arxiv.org/pdf/2602.05041v1
+  authors: Eli Ben-Michael, Avi Feller, Luke Keele
+  date: '2026-02-04'
+  date_display: Feb 04, 2026
+  categories:
+  - stat.ME
+- title: Decoupling and randomization for double-indexed permutation statistics
+  arxiv_id: 2601.20018v2
+  url: https://arxiv.org/abs/2601.20018v2
+  pdf_url: https://arxiv.org/pdf/2601.20018v2
+  authors: Mingxuan Zou, Jingfan Xu, Peng Ding, Fang Han
+  date: '2026-01-27'
+  date_display: Jan 27, 2026
+  categories:
+  - math.ST
+  - econ.EM
+  - math.PR
+- title: Falsifying Discriminant Validity of Predictive Algorithms
+  arxiv_id: 2601.17146v2
+  url: https://arxiv.org/abs/2601.17146v2
+  pdf_url: https://arxiv.org/pdf/2601.17146v2
+  authors: Amanda Coston
+  date: '2026-01-23'
+  date_display: Jan 23, 2026
+  categories:
+  - stat.ME
+  - cs.CY
+  - cs.LG
+- title: 'Many Experiments, Few Repetitions, Unpaired Data, and Sparse Effects: Is
+    Causal Inference Possible?'
+  arxiv_id: 2601.15254v1
+  url: https://arxiv.org/abs/2601.15254v1
+  pdf_url: https://arxiv.org/pdf/2601.15254v1
+  authors: Felix Schur, Niklas Pfister, Peng Ding, Sach Mukherjee, Jonas Peters
+  date: '2026-01-21'
+  date_display: Jan 21, 2026
+  categories:
+  - stat.ML
+  - cs.AI
+  - cs.LG
+- title: Two-stage Least Squares with Clustered Data under the Local Average Treatment
+    Effect Framework
+  arxiv_id: 2601.13507v3
+  url: https://arxiv.org/abs/2601.13507v3
+  pdf_url: https://arxiv.org/pdf/2601.13507v3
+  authors: Anqi Zhao, Peng Ding, Fan Li
+  date: '2026-01-20'
+  date_display: Jan 20, 2026
+  categories:
+  - stat.ME
+- title: On Nonasymptotic Confidence Intervals for Treatment Effects in Randomized
+    Experiments
+  arxiv_id: 2601.11744v2
+  url: https://arxiv.org/abs/2601.11744v2
+  pdf_url: https://arxiv.org/pdf/2601.11744v2
+  authors: Ricardo J. Sandoval, Sivaraman Balakrishnan, Avi Feller, Michael I. Jordan,
+    Ian Waudby-Smith
+  date: '2026-01-16'
+  date_display: Jan 16, 2026
+  categories:
+  - stat.ME
+  - math.ST
+  - stat.AP
+- title: Nonparametric Identification of Demand without Exogenous Product Characteristics
+  arxiv_id: 2512.23211v2
+  url: https://arxiv.org/abs/2512.23211v2
+  pdf_url: https://arxiv.org/pdf/2512.23211v2
+  authors: Kirill Borusyak, Jiafeng Chen, Peter Hull, Lihua Lei
+  date: '2025-12-29'
+  date_display: Dec 29, 2025
+  categories:
+  - econ.EM
+  - math.ST
+  - stat.ME
+- title: 'Forest Kernel Balancing Weights: Outcome-Guided Features for Causal Inference'
+  arxiv_id: 2512.11751v1
+  url: https://arxiv.org/abs/2512.11751v1
+  pdf_url: https://arxiv.org/pdf/2512.11751v1
+  authors: Andy A. Shen, Eli Ben-Michael, Avi Feller, Luke Keele, Jared Murray
+  date: '2025-12-12'
+  date_display: Dec 12, 2025
+  categories:
+  - stat.ME
+  - stat.AP
+- title: 'Principled analysis of crossover designs: causal effects, efficient estimation,
+    and robust inference'
+  arxiv_id: 2511.09215v3
+  url: https://arxiv.org/abs/2511.09215v3
+  pdf_url: https://arxiv.org/pdf/2511.09215v3
+  authors: Zhichao Jiang, Peng Ding
+  date: '2025-11-12'
+  date_display: Nov 12, 2025
+  categories:
+  - stat.ME
+- title: Concentration inequalities for strong laws and laws of the iterated logarithm
+  arxiv_id: 2511.00175v1
+  url: https://arxiv.org/abs/2511.00175v1
+  pdf_url: https://arxiv.org/pdf/2511.00175v1
+  authors: Johannes Ruf, Ian Waudby-Smith
+  date: '2025-10-31'
+  date_display: Oct 31, 2025
+  categories:
+  - math.PR
+  - math.ST
+- title: Unifying regression-based and design-based causal inference in time-series
+    experiments
+  arxiv_id: 2510.22864v1
+  url: https://arxiv.org/abs/2510.22864v1
+  pdf_url: https://arxiv.org/pdf/2510.22864v1
+  authors: Zhexiao Lin, Peng Ding
+  date: '2025-10-26'
+  date_display: Oct 26, 2025
+  categories:
+  - stat.ME
+  - econ.EM
+  - math.ST
+- title: 'TERRA: A Transformer-Enabled Recursive R-learner for Longitudinal Heterogeneous
+    Treatment Effect Estimation'
+  arxiv_id: 2510.22407v1
+  url: https://arxiv.org/abs/2510.22407v1
+  pdf_url: https://arxiv.org/pdf/2510.22407v1
+  authors: Lei Shi, Sizhu Lu, Qiuran Lyu, Peng Ding, Nikos Vlassis
+  date: '2025-10-25'
+  date_display: Oct 25, 2025
+  categories:
+  - stat.ME
+- title: Ridge Boosting is Both Robust and Efficient
+  arxiv_id: 2510.22083v2
+  url: https://arxiv.org/abs/2510.22083v2
+  pdf_url: https://arxiv.org/pdf/2510.22083v2
+  authors: David Bruns-Smith, Zhongming Xie, Avi Feller
+  date: '2025-10-24'
+  date_display: Oct 24, 2025
+  categories:
+  - stat.ME
+- title: Leveraging semantic similarity for experimentation with AI-generated treatments
+  arxiv_id: 2510.21119v1
+  url: https://arxiv.org/abs/2510.21119v1
+  pdf_url: https://arxiv.org/pdf/2510.21119v1
+  authors: Lei Shi, David Arbour, Raghavendra Addanki, Ritwik Sinha, Avi Feller
+  date: '2025-10-23'
+  date_display: Oct 23, 2025
+  categories:
+  - stat.ME
+  - stat.ML
+  - 62K86, 65F55
+- title: Handling Missing Responses under Cluster Dependence with Applications to
+    Language Model Evaluation
+  arxiv_id: 2510.20928v1
+  url: https://arxiv.org/abs/2510.20928v1
+  pdf_url: https://arxiv.org/pdf/2510.20928v1
+  authors: Zhenghao Zeng, David Arbour, Avi Feller, Ishita Dasgupta, Atanu R Sinha,
+    Edward H. Kennedy
+  date: '2025-10-23'
+  date_display: Oct 23, 2025
+  categories:
+  - stat.ME
+- title: Regularizing Extrapolation in Causal Inference
+  arxiv_id: 2509.17180v3
+  url: https://arxiv.org/abs/2509.17180v3
+  pdf_url: https://arxiv.org/pdf/2509.17180v3
+  authors: David Arbour, Harsh Parikh, Bijan Niknam, Elizabeth Stuart, Kara Rudolph,
+    Avi Feller
+  date: '2025-09-21'
+  date_display: Sep 21, 2025
+  categories:
+  - cs.LG
+  - econ.EM
+  - stat.ME
+- title: Inverse regression for causal inference with multiple outcomes
+  arxiv_id: 2509.12587v1
+  url: https://arxiv.org/abs/2509.12587v1
+  pdf_url: https://arxiv.org/pdf/2509.12587v1
+  authors: Wei Zhang, Qizhai Li, Peng Ding
+  date: '2025-09-16'
+  date_display: Sep 16, 2025
+  categories:
+  - stat.ME
+- title: 'Covariate Adjustment Cannot Hurt: Treatment Effect Estimation under Interference
+    with Low-Order Outcome Interactions'
+  arxiv_id: 2509.03050v2
+  url: https://arxiv.org/abs/2509.03050v2
+  pdf_url: https://arxiv.org/pdf/2509.03050v2
+  authors: Xinyi Wang, Shuangning Li
+  date: '2025-09-03'
+  date_display: Sep 03, 2025
+  categories:
+  - stat.ME
+- title: The Statistical Fairness-Accuracy Frontier
+  arxiv_id: 2508.17622v3
+  url: https://arxiv.org/abs/2508.17622v3
+  pdf_url: https://arxiv.org/pdf/2508.17622v3
+  authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
+  date: '2025-08-25'
+  date_display: Aug 25, 2025
+  categories:
+  - stat.ML
+  - cs.LG
+  - econ.TH
+- title: Alternative statistical inference for the first normalized incomplete moment
+  arxiv_id: 2508.17145v1
+  url: https://arxiv.org/abs/2508.17145v1
+  pdf_url: https://arxiv.org/pdf/2508.17145v1
+  authors: Jiannan Lu, Peng Ding, Anqi Zhao
+  date: '2025-08-23'
+  date_display: Aug 23, 2025
+  categories:
+  - stat.ME
+  - stat.AP
+- title: Conditional cross-fitting for unbiased machine-learning-assisted covariate
+    adjustment in randomized experiments
+  arxiv_id: 2508.15664v1
+  url: https://arxiv.org/abs/2508.15664v1
+  pdf_url: https://arxiv.org/pdf/2508.15664v1
+  authors: Xin Lu, Lei Shi, Hanzhong Liu, Peng Ding
+  date: '2025-08-21'
+  date_display: Aug 21, 2025
+  categories:
+  - stat.ME

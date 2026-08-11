@@ -21,6 +21,7 @@ prof-feller:
     webpage: "https://www.avifeller.com/"
     image: /img/people/avi_feller.jpg
     role: faculty
+    arxiv_author_id: feller_a_1
 
 prof-hartman:
     display_name: "Erin Hartman"

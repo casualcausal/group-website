@@ -1,0 +1,19 @@
+---
+layout: default
+title: Papers
+---
+
+{% assign papers = site.data.papers.papers %}
+
+<p class="papers-updated">
+    Recent preprints and papers from the group, pulled automatically from arXiv.
+    {% if site.data.papers.last_updated %}
+        Last updated {{ site.data.papers.last_updated }}.
+    {% endif %}
+</p>
+
+<ul class="news papers list-unstyled">
+    {% for paper in papers %}
+        {% include paper-item.html paper=paper %}
+    {% endfor %}
+</ul>

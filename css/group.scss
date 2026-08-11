@@ -71,6 +71,41 @@ ul.news {
     }
 }
 
+/* arXiv paper lists (front page + papers.html), generated from _data/papers.yml. */
+.papers-updated {
+    color: $gray;
+    margin-bottom: 1.5em;
+}
+
+ul.papers {
+
+    h5 {
+        margin: 0.2em 0 0.1em 0;
+    }
+
+    .paper-authors {
+        font-size: 0.95em;
+    }
+
+    .paper-links {
+        margin-top: 0.4em;
+    }
+
+    .paper-badge, .paper-category {
+        border: 1px solid $light-gray;
+        border-radius: 4px;
+        display: inline-block;
+        font-size: 0.8em;
+        line-height: 1;
+        margin-right: 0.3em;
+        padding: 0.3em 0.4em;
+    }
+
+    .paper-category {
+        color: $gray;
+    }
+}
+
 @media (min-width: 576px) {
     .project-people { column-count: 2 }
     .card-columns   { column-count: 2 }
