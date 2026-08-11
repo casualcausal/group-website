@@ -11,6 +11,9 @@ role-tables:
   - roles: [grad, vgrad]
     width: 8
     image: true
+
+# Alumni and past visitors, shown lower on the page (below papers and news).
+alum-tables:
 - - roles: [alum]
     width: 7
     image: false
@@ -51,6 +54,7 @@ role-tables:
 
 <section>
     <h2>Recent Papers</h2>
+    <p class="section-subtitle">Automatically generated from arXiv.</p>
     <ul class="news papers list-unstyled">
         {% for paper in site.data.papers.papers limit: site.front_page_papers %}
             {% include paper-item.html paper=paper %}
@@ -80,6 +84,20 @@ role-tables:
         </p>
     {% endif %}
 </section>
+
+<div id="alumni">
+    {% for role-table in page.alum-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
 
 <!-- <section>
     <h2>Research</h2>

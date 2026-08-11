@@ -185,7 +185,8 @@ def parse_entries(source, members=None):
 
     for entry in root.findall(f"{{{ATOM}}}entry"):
         url = entry.findtext(f"{{{ATOM}}}id", "").strip()
-        arxiv_id = urlparse(url).path.removeprefix("/abs/").strip("/")
+        # Drop the version suffix (v1, v2, ...) so IDs and links stay stable.
+        arxiv_id = base_id(urlparse(url).path.removeprefix("/abs/").strip("/"))
         published = datetime.fromisoformat(
             entry.findtext(f"{{{ATOM}}}published", "").replace("Z", "+00:00")
         )
@@ -201,7 +202,7 @@ def parse_entries(source, members=None):
         papers.append({
             "title": clean_text(entry.findtext(f"{{{ATOM}}}title", "")),
             "arxiv_id": arxiv_id,
-            "url": url.replace("http://", "https://"),
+            "url": f"https://arxiv.org/abs/{arxiv_id}",
             "pdf_url": f"https://arxiv.org/pdf/{arxiv_id}",
             "authors": format_authors(authors, members),
             "date": published.strftime("%Y-%m-%d"),
