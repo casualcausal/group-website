@@ -37,6 +37,32 @@ alum-tables:
     </p>
 </div>
 
+<section id="seminar">
+    {% assign seminar = site.data.seminar %}
+    <h2>Group Meeting</h2>
+    <p class="section-subtitle">Applied Stats + Causal Inference Seminar Series, {{ seminar.term }}.</p>
+    <p>
+        We meet <b>{{ seminar.time }}</b> in <b>{{ seminar.location }}</b>.
+        Talks are informal and everyone is welcome, including students who are
+        new to causal inference. The room is card-access, so if you are coming
+        from outside the department, email
+        {% for c in seminar.contacts %}{% if forloop.last and forloop.length > 1 %} or {% elsif forloop.index0 > 0 %}, {% endif %}<a href="mailto:{{ c.email }}">{{ c.name }}</a>{% endfor %}
+        ahead of time and we will let you in.
+        Berkeley students can also enroll as {{ seminar.course }}.
+    </p>
+
+    <h3 class="pt-3">Upcoming Talks</h3>
+    <ul class="news seminar list-unstyled">
+        {% for talk in seminar.talks %}
+            <li>
+                <span class="date">{{ talk.date }}</span>
+                &mdash; {{ talk.speaker }}{% if talk.affiliation %} <span class="affiliation">({{ talk.affiliation }})</span>{% endif %}
+                {% if talk.title %}<div class="talk-title">{{ talk.title }}</div>{% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</section>
+
 <div id="people">
     <h2>People</h2>
     {% for role-table in page.role-tables %}

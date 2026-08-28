@@ -1,0 +1,34 @@
+# Group meeting info and public schedule, shown on the front page.
+#
+# Only external speakers and faculty talks are listed publicly (per the group's
+# decision, Aug 2026). Student talks are kept off the site by default; add one
+# here only if the student asks for it.
+term: "Fall 2026"
+time: "Wednesdays, 2:00&ndash;3:30pm"
+location: "Gateway 3355"
+course: "Stat 298 &mdash; IND 001 (class #13997)"
+contacts:
+  - name: "Abdullah Ateyeh"
+    email: "abdullah_ateyeh@berkeley.edu"
+  - name: "Abhroneel Ghosh"
+    email: "abhroneel_ghosh@berkeley.edu"
+talks:
+  - date: "Sept 2"
+    speaker: "Laura Balzer"
+    affiliation: "UC Berkeley"
+    title: "Far From MCAR & Its Consequences in Global Health"
+  - date: "Sept 23"
+    speaker: "Lihua Lei"
+    affiliation: "Stanford"
+  - date: "Sept 30"
+    speaker: "Melody Huang"
+    affiliation: "Yale"
+  - date: "Oct 28"
+    speaker: "Yaroslav Mukhin"
+    affiliation: "Cornell, Economics"
+  - date: "Nov 4"
+    speaker: "Eli Ben-Michael"
+    affiliation: "CMU"
+  - date: "Dec 2"
+    speaker: "Erin Hartman"
+    affiliation: "UC Berkeley"
