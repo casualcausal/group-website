@@ -186,3 +186,19 @@ svg {
     // make the alignment just like img from bootstrap's reboot.scss
     vertical-align: middle;
 }
+
+/* Group meeting / seminar schedule on the front page. */
+ul.seminar {
+
+    > li {
+        margin-top: 0.6em;
+    }
+
+    .affiliation {
+        color: $gray;
+    }
+
+    .talk-title {
+        font-style: italic;
+    }
+}
