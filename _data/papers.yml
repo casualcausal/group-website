@@ -1,6 +1,16 @@
-last_updated: August 15, 2026
+last_updated: September 01, 2026
 window_days: 365
 papers:
+- title: Outcome Modeling in Design-Based Inference for Spatial Settings
+  arxiv_id: '2608.15439'
+  url: https://arxiv.org/abs/2608.15439
+  pdf_url: https://arxiv.org/pdf/2608.15439
+  authors: Arisa Sadeghpour, Erin Hartman
+  date: '2026-08-15'
+  date_display: Aug 15, 2026
+  categories:
+  - stat.ME
+  - stat.AP
 - title: Confidence Horizons
   arxiv_id: '2608.03889'
   url: https://arxiv.org/abs/2608.03889
@@ -12,6 +22,17 @@ papers:
   - stat.ME
   - math.ST
   - stat.ML
+- title: 'Towards Best Practices for Covariate Adjustment in Regulatory Trials: From
+    Fixed to Data-Adaptive Approaches'
+  arxiv_id: '2607.27542'
+  url: https://arxiv.org/abs/2607.27542
+  pdf_url: https://arxiv.org/pdf/2607.27542
+  authors: Laura B. Balzer, Lei Nie, Issa J. Dahabreh, Kajsa Kvist, Tianyue Zhou,
+    Demissie Alemayehu, Larry Han, Zhiwei Zhang, et al.
+  date: '2026-07-30'
+  date_display: Jul 30, 2026
+  categories:
+  - stat.ME
 - title: Gaffke's confidence interval for the mean of bounded data is inadmissible
     but asymptotically efficient
   arxiv_id: '2607.18661'
@@ -69,8 +90,7 @@ papers:
   - stat.ML
   - cs.LG
   - stat.ME
-- title: Introducing the CP-plot Based on Covariance Representations of Weighted Average
-    Treatment Effects
+- title: Introducing the CP-plot for Causal Inference with Observational Studies
   arxiv_id: '2606.11715'
   url: https://arxiv.org/abs/2606.11715
   pdf_url: https://arxiv.org/pdf/2606.11715
@@ -290,6 +310,17 @@ papers:
   - econ.EM
   - math.ST
   - stat.ME
+- title: 'Machine learning to optimize precision in the analysis of randomized trials:
+    A journey in pre-specified, yet data-adaptive learning'
+  arxiv_id: '2512.13610'
+  url: https://arxiv.org/abs/2512.13610
+  pdf_url: https://arxiv.org/pdf/2512.13610
+  authors: Laura B. Balzer, Mark J. van der Laan, Maya L. Petersen
+  date: '2025-12-15'
+  date_display: Dec 15, 2025
+  categories:
+  - stat.ME
+  - stat.ML
 - title: 'Forest Kernel Balancing Weights: Outcome-Guided Features for Causal Inference'
   arxiv_id: '2512.11751'
   url: https://arxiv.org/abs/2512.11751
@@ -402,36 +433,5 @@ papers:
   authors: Xinyi Wang, Shuangning Li
   date: '2025-09-03'
   date_display: Sep 03, 2025
-  categories:
-  - stat.ME
-- title: The Statistical Fairness-Accuracy Frontier
-  arxiv_id: '2508.17622'
-  url: https://arxiv.org/abs/2508.17622
-  pdf_url: https://arxiv.org/pdf/2508.17622
-  authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
-  date: '2025-08-25'
-  date_display: Aug 25, 2025
-  categories:
-  - stat.ML
-  - cs.LG
-  - econ.TH
-- title: Alternative statistical inference for the first normalized incomplete moment
-  arxiv_id: '2508.17145'
-  url: https://arxiv.org/abs/2508.17145
-  pdf_url: https://arxiv.org/pdf/2508.17145
-  authors: Jiannan Lu, Peng Ding, Anqi Zhao
-  date: '2025-08-23'
-  date_display: Aug 23, 2025
-  categories:
-  - stat.ME
-  - stat.AP
-- title: Conditional cross-fitting for unbiased machine-learning-assisted covariate
-    adjustment in randomized experiments
-  arxiv_id: '2508.15664'
-  url: https://arxiv.org/abs/2508.15664
-  pdf_url: https://arxiv.org/pdf/2508.15664
-  authors: Xin Lu, Lei Shi, Hanzhong Liu, Peng Ding
-  date: '2025-08-21'
-  date_display: Aug 21, 2025
   categories:
   - stat.ME
