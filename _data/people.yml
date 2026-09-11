@@ -47,6 +47,12 @@ prof-schuler:
     image: /img/people/alejandro_schuler.jpg
     role: faculty
 
+postdoc-spertus:
+    display_name: "Jacob V. Spertus"
+    webpage: "https://sites.google.com/view/jacob-v-spertus/home"
+    image: /img/people/jacob_spertus.jpg
+    role: postdoc
+
 postdoc-waudbysmith:
     display_name: "Ian Waudby-Smith"
     webpage: "https://ianws.com/"
