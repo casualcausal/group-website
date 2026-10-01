@@ -1,6 +1,48 @@
-last_updated: September 01, 2026
+last_updated: October 01, 2026
 window_days: 365
 papers:
+- title: Always-On Experimentation
+  arxiv_id: '2609.38695'
+  url: https://arxiv.org/abs/2609.38695
+  pdf_url: https://arxiv.org/pdf/2609.38695
+  authors: Ricardo J. Sandoval, David Arbour, Avi Feller, Michael I. Jordan
+  date: '2026-09-30'
+  date_display: Sep 30, 2026
+  categories:
+  - stat.ME
+  - cs.AI
+- title: 'Imputation is all you need: double robustness, semiparametric efficiency,
+    and automatic covariate balance for estimating the average treatment effect'
+  arxiv_id: '2609.38692'
+  url: https://arxiv.org/abs/2609.38692
+  pdf_url: https://arxiv.org/pdf/2609.38692
+  authors: Fang Han, Peng Ding
+  date: '2026-09-30'
+  date_display: Sep 30, 2026
+  categories:
+  - math.ST
+  - econ.EM
+- title: Optimal Sequential Annotations for Off-Policy Evaluation
+  arxiv_id: '2609.26707'
+  url: https://arxiv.org/abs/2609.26707
+  pdf_url: https://arxiv.org/pdf/2609.26707
+  authors: Woojin Chae, Ezinne Nwankwo, Haitong Qin, Angela Zhou
+  date: '2026-09-22'
+  date_display: Sep 22, 2026
+  categories:
+  - stat.ME
+  - cs.LG
+  - stat.ML
+- title: 'Causal inference in two-sided randomization designs: factorial regression,
+    two-way clustering, and covariate adjustment'
+  arxiv_id: '2609.22761'
+  url: https://arxiv.org/abs/2609.22761
+  pdf_url: https://arxiv.org/pdf/2609.22761
+  authors: Pengfei Tian, Jizhou Liu, Lei Shi, Peng Ding
+  date: '2026-09-19'
+  date_display: Sep 19, 2026
+  categories:
+  - econ.EM
 - title: Outcome Modeling in Design-Based Inference for Spatial Settings
   arxiv_id: '2608.15439'
   url: https://arxiv.org/abs/2608.15439
@@ -402,36 +444,5 @@ papers:
     Edward H. Kennedy
   date: '2025-10-23'
   date_display: Oct 23, 2025
-  categories:
-  - stat.ME
-- title: Regularizing Extrapolation in Causal Inference
-  arxiv_id: '2509.17180'
-  url: https://arxiv.org/abs/2509.17180
-  pdf_url: https://arxiv.org/pdf/2509.17180
-  authors: David Arbour, Harsh Parikh, Bijan Niknam, Elizabeth Stuart, Kara Rudolph,
-    Avi Feller
-  date: '2025-09-21'
-  date_display: Sep 21, 2025
-  categories:
-  - cs.LG
-  - econ.EM
-  - stat.ME
-- title: Inverse regression for causal inference with multiple outcomes
-  arxiv_id: '2509.12587'
-  url: https://arxiv.org/abs/2509.12587
-  pdf_url: https://arxiv.org/pdf/2509.12587
-  authors: Wei Zhang, Qizhai Li, Peng Ding
-  date: '2025-09-16'
-  date_display: Sep 16, 2025
-  categories:
-  - stat.ME
-- title: 'Covariate Adjustment Cannot Hurt: Treatment Effect Estimation under Interference
-    with Low-Order Outcome Interactions'
-  arxiv_id: '2509.03050'
-  url: https://arxiv.org/abs/2509.03050
-  pdf_url: https://arxiv.org/pdf/2509.03050
-  authors: Xinyi Wang, Shuangning Li
-  date: '2025-09-03'
-  date_display: Sep 03, 2025
   categories:
   - stat.ME
