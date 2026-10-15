@@ -1,4 +1,4 @@
-last_updated: October 01, 2026
+last_updated: October 15, 2026
 window_days: 365
 papers:
 - title: Always-On Experimentation
@@ -6,8 +6,8 @@ papers:
   url: https://arxiv.org/abs/2609.38695
   pdf_url: https://arxiv.org/pdf/2609.38695
   authors: Ricardo J. Sandoval, David Arbour, Avi Feller, Michael I. Jordan
-  date: '2026-09-30'
-  date_display: Sep 30, 2026
+  date: '2026-09-29'
+  date_display: Sep 29, 2026
   categories:
   - stat.ME
   - cs.AI
