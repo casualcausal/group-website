@@ -1,6 +1,48 @@
-last_updated: October 15, 2026
+last_updated: November 01, 2026
 window_days: 365
 papers:
+- title: 'Pinpointing Pivot Points: The DECIDE Framework for Data Analysis Decision
+    Importances'
+  arxiv_id: '2610.38797'
+  url: https://arxiv.org/abs/2610.38797
+  pdf_url: https://arxiv.org/pdf/2610.38797
+  authors: Zachary T. Rewolinski, Jan Simson, Frauke Kreuter, Christoph Kern, Bin
+    Yu
+  date: '2026-10-28'
+  date_display: Oct 28, 2026
+  categories:
+  - stat.ML
+  - cs.LG
+  - stat.ME
+- title: Neyman Orthogonal Activation Steering
+  arxiv_id: '2610.33217'
+  url: https://arxiv.org/abs/2610.33217
+  pdf_url: https://arxiv.org/pdf/2610.33217
+  authors: David Arbour, Erfan Jahanparast, Serina Chang, Avi Feller
+  date: '2026-10-23'
+  date_display: Oct 23, 2026
+  categories:
+  - cs.LG
+- title: 'Bias-aware meta-analysis: beyond fixed-effect and random-effects meta-analyses'
+  arxiv_id: '2610.32183'
+  url: https://arxiv.org/abs/2610.32183
+  pdf_url: https://arxiv.org/pdf/2610.32183
+  authors: Mingxuan Zou, Peng Ding
+  date: '2026-10-23'
+  date_display: Oct 23, 2026
+  categories:
+  - stat.ME
+  - stat.AP
+- title: A Duality of the F Distribution
+  arxiv_id: '2610.28690'
+  url: https://arxiv.org/abs/2610.28690
+  pdf_url: https://arxiv.org/pdf/2610.28690
+  authors: Zifeng Zhang, Peng Ding, Wen Zhou, Chenlu Shi
+  date: '2026-10-20'
+  date_display: Oct 20, 2026
+  categories:
+  - math.ST
+  - stat.ME
 - title: Always-On Experimentation
   arxiv_id: '2609.38695'
   url: https://arxiv.org/abs/2609.38695
@@ -22,7 +64,8 @@ papers:
   categories:
   - math.ST
   - econ.EM
-- title: Optimal Sequential Annotations for Off-Policy Evaluation
+- title: Optimal Expert Annotation for Evaluating Sequential Decision Policies from
+    Text Records
   arxiv_id: '2609.26707'
   url: https://arxiv.org/abs/2609.26707
   pdf_url: https://arxiv.org/pdf/2609.26707
@@ -222,6 +265,7 @@ papers:
   date_display: Mar 11, 2026
   categories:
   - stat.ME
+  - cs.IT
   - math.PR
 - title: Post-Hoc Large-Sample Statistical Inference
   arxiv_id: '2603.08002'
@@ -381,68 +425,5 @@ papers:
   authors: Zhichao Jiang, Peng Ding
   date: '2025-11-12'
   date_display: Nov 12, 2025
-  categories:
-  - stat.ME
-- title: Concentration inequalities for strong laws and laws of the iterated logarithm
-  arxiv_id: '2511.00175'
-  url: https://arxiv.org/abs/2511.00175
-  pdf_url: https://arxiv.org/pdf/2511.00175
-  authors: Johannes Ruf, Ian Waudby-Smith
-  date: '2025-10-31'
-  date_display: Oct 31, 2025
-  categories:
-  - math.PR
-  - math.ST
-- title: Unifying regression-based and design-based causal inference in time-series
-    experiments
-  arxiv_id: '2510.22864'
-  url: https://arxiv.org/abs/2510.22864
-  pdf_url: https://arxiv.org/pdf/2510.22864
-  authors: Zhexiao Lin, Peng Ding
-  date: '2025-10-26'
-  date_display: Oct 26, 2025
-  categories:
-  - stat.ME
-  - econ.EM
-  - math.ST
-- title: 'TERRA: A Transformer-Enabled Recursive R-learner for Longitudinal Heterogeneous
-    Treatment Effect Estimation'
-  arxiv_id: '2510.22407'
-  url: https://arxiv.org/abs/2510.22407
-  pdf_url: https://arxiv.org/pdf/2510.22407
-  authors: Lei Shi, Sizhu Lu, Qiuran Lyu, Peng Ding, Nikos Vlassis
-  date: '2025-10-25'
-  date_display: Oct 25, 2025
-  categories:
-  - stat.ME
-- title: Ridge Boosting is Both Robust and Efficient
-  arxiv_id: '2510.22083'
-  url: https://arxiv.org/abs/2510.22083
-  pdf_url: https://arxiv.org/pdf/2510.22083
-  authors: David Bruns-Smith, Zhongming Xie, Avi Feller
-  date: '2025-10-24'
-  date_display: Oct 24, 2025
-  categories:
-  - stat.ME
-- title: Leveraging semantic similarity for experimentation with AI-generated treatments
-  arxiv_id: '2510.21119'
-  url: https://arxiv.org/abs/2510.21119
-  pdf_url: https://arxiv.org/pdf/2510.21119
-  authors: Lei Shi, David Arbour, Raghavendra Addanki, Ritwik Sinha, Avi Feller
-  date: '2025-10-23'
-  date_display: Oct 23, 2025
-  categories:
-  - stat.ME
-  - stat.ML
-  - 62K86, 65F55
-- title: Handling Missing Responses under Cluster Dependence with Applications to
-    Language Model Evaluation
-  arxiv_id: '2510.20928'
-  url: https://arxiv.org/abs/2510.20928
-  pdf_url: https://arxiv.org/pdf/2510.20928
-  authors: Zhenghao Zeng, David Arbour, Avi Feller, Ishita Dasgupta, Atanu R Sinha,
-    Edward H. Kennedy
-  date: '2025-10-23'
-  date_display: Oct 23, 2025
   categories:
   - stat.ME
